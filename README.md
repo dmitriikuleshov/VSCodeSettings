@@ -1,6 +1,7 @@
+
+```
 {
 	"editor.mouseWheelZoom": true,
-
 	"window.openFilesInNewWindow": "off",
 	"editor.tabSize": 4,
 	"editor.folding": true,
@@ -95,3 +96,4 @@
 	"prettier.singleAttributePerLine": true,
 	"prettier.bracketSameLine": true
 }
+```
